@@ -1,0 +1,2 @@
+basyx-python-sdk
+git+https://github.com/mhrimaz/py-aas-rdf.git@main
